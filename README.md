@@ -38,22 +38,24 @@ cd PYTHON-FAST-API-PROJECT
 pip install fastapi uvicorn pydantic
 
 
-Run the FastAPI app:
+## Run the FastAPI app:
 
 uvicorn main:app --reload
 
 
-Open your browser and visit:
+## Open your browser and visit:
 
 http://127.0.0.1:8000/docs
 
-API Endpoints
-Method	Endpoint	Description
-GET	/buses	Get all available buses
-POST	/bookings	Book a bus ticket
-GET	/bookings	Get all bookings
-DELETE	/bookings/{booking_id}	Cancel a booking
-Example Booking Request
+## API Endpoints
+
+Method          Endpoint 	        Description
+GET	            /buses	      Get all available buses
+POST	         /bookings      Book a bus ticket
+GET	           /bookings	    Get all bookings
+DELETE	      /bookings/	    {booking_id}	Cancel a booking
+
+## Example Booking Request
 
 POST /bookings
 
@@ -64,7 +66,7 @@ POST /bookings
 }
 
 
-Example Response:
+## Example Response:
 
 {
   "booking_id": "BK1",
