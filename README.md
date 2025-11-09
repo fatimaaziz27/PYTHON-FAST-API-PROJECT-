@@ -1,4 +1,4 @@
-PYTHON-FAST-API-PROJECT
+## PYTHON-FAST-API-PROJECT
 
 A simple Bus Booking API built using FastAPI.
 It demonstrates how to create RESTful APIs with Python, handle requests, validate data using Pydantic, and manage basic booking logic.
