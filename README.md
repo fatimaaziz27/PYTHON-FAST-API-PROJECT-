@@ -27,25 +27,9 @@ Pydantic
 
 ## Installation and Setup
 
-Clone this repository:
-
-git clone https://github.com/yourusername/PYTHON-FAST-API-PROJECT.git
-cd PYTHON-FAST-API-PROJECT
-
-
 ## Install dependencies:
 
 pip install fastapi uvicorn pydantic
-
-
-## Run the FastAPI app:
-
-uvicorn main:app --reload
-
-
-## Open your browser and visit:
-
-http://127.0.0.1:8000/docs
 
 ## API Endpoints
 
