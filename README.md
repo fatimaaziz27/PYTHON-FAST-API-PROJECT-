@@ -3,7 +3,7 @@
 A simple Bus Booking API built using FastAPI.
 It demonstrates how to create RESTful APIs with Python, handle requests, validate data using Pydantic, and manage basic booking logic.
 
-Features
+## Features
 
 View available buses with route, time, fare, and seats available
 
@@ -15,7 +15,7 @@ View all bookings
 
 Simple, fast, and easy to extend
 
-Tech Stack
+## Tech Stack
 
 Python
 
@@ -25,7 +25,7 @@ Uvicorn
 
 Pydantic
 
-Installation and Setup
+## Installation and Setup
 
 Clone this repository:
 
@@ -33,7 +33,7 @@ git clone https://github.com/yourusername/PYTHON-FAST-API-PROJECT.git
 cd PYTHON-FAST-API-PROJECT
 
 
-Install dependencies:
+## Install dependencies:
 
 pip install fastapi uvicorn pydantic
 
@@ -76,7 +76,7 @@ Example Response:
   "total_fare": 1000
 }
 
-Project Members
+## Project Members
 
 Fatima Aziz
 
@@ -84,7 +84,7 @@ Hadiya Ahmed
 
 Ayesha Aziz
 
-Future Enhancements
+## Future Enhancements
 
 Add database integration
 
@@ -93,9 +93,3 @@ Add user authentication
 Create a frontend interface
 
 Send booking confirmation emails
-
-License
-
-This project is open source under the MIT License.
-
-Would you like me to also give you a short description line (1–2 sentences) for your GitHub project’s top section (the one that appears above the README)?
