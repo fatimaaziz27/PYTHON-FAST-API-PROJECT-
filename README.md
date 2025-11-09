@@ -25,8 +25,6 @@ Uvicorn
 
 Pydantic
 
-## Installation and Setup
-
 ## Install dependencies:
 
 pip install fastapi uvicorn pydantic
