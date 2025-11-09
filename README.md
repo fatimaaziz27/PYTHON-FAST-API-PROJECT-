@@ -37,6 +37,16 @@ POST	         /bookings      Book a bus ticket
 GET	           /bookings	    Get all bookings
 DELETE	      /bookings/	    {booking_id}	Cancel a booking
 
+## 📡 API Endpoints
+
+| **Method** | **Endpoint** | **Description** |
+|-------------|--------------|-----------------|
+| **GET** | `/buses` | Get all available buses |
+| **POST** | `/bookings` | Book a bus ticket |
+| **GET** | `/bookings` | Get all bookings |
+| **DELETE** | `/bookings/{booking_id}` | Cancel a booking |
+
+
 ## Example Booking Request
 
 POST /bookings
