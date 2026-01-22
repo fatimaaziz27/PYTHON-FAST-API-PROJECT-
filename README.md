@@ -62,20 +62,3 @@ POST /bookings
   "total_fare": 1000
 }
 
-## Project Members
-
-Fatima Aziz
-
-Hadiya Ahmed
-
-Ayesha Aziz
-
-## Future Enhancements
-
-Add database integration
-
-Add user authentication
-
-Create a frontend interface
-
-Send booking confirmation emails
